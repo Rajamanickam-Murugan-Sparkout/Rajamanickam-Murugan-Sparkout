@@ -14,6 +14,6 @@
 
 <h4>Contact me on :</h4>
 <div>
-  <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/raju_kutty__' alt='linkedIn-badge'
+  <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='linkedIn-badge'
   
 </div>
