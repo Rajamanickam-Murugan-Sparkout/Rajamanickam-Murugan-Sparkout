@@ -13,8 +13,8 @@
 </p>
 
 <h4>Contact me on :</h4>
-<a href='mailto:rajamanickam842001@gmail.com'>
-  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='email-badge'>
+<a href='mailto:rajamanickam@sparkouttech.com'>
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='emailbadge'>
 </a>&nbsp;&nbsp
 <a href="https://www.linkedin.com/in/rajamanickam-murugan-5764a7277/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
