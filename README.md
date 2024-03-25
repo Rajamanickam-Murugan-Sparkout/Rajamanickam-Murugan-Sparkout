@@ -13,6 +13,6 @@
 </p>
 
 <h4>Contact me on :</h4>
-<a href='mailto:rajamanickam@sparkouttech.com'>
+<a href='mailto:rajamanickam842001@gmail.com'>
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='email-badge'>
 </a>
