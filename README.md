@@ -3,6 +3,6 @@
 
 <h4>🌱 I’m currently learning : </h4>
 <div>
-  <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>&nbsp;&nbsp;&nbsp;
   <img width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 </div>
