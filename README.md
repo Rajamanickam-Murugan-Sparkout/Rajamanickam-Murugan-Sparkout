@@ -3,5 +3,5 @@
 
 <h4>🌱 I’m currently learning : </h4>
 <div>
-<img width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/><small></small>    <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 </div>
