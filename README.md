@@ -12,6 +12,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
 </div>
 
+<h4>Contact me on :</h4>
 <div>
   <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='linkedIn-badge'
   
