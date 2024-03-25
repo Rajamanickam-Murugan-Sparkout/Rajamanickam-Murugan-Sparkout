@@ -7,4 +7,4 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 </div>
 
-<h4><img width="64" height="64" src="https://img.icons8.com/flat-round/64/checkmark.png" alt="checkmark"/> Done with :</h4>
+<h4><img width="25" height="25" src="https://img.icons8.com/flat-round/64/checkmark.png" alt="checkmark"/> Done with :</h4>
