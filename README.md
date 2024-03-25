@@ -14,9 +14,9 @@
 
 <h4>Contact me on :</h4>
 
-<a href="https://www.linkedin.com/in/rajamanickam-murugan-5764a7277/" target="blank">
+<a href="https://www.linkedin.com/in/rajamanickam-murugan-5764a7277/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:rajamanickam@sparkouttech.com">
+<a href="mailto:rajamanickam@sparkouttech.com" target="_blank">
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
 </a>
