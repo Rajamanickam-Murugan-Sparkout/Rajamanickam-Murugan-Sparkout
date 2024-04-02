@@ -3,7 +3,7 @@
 
 <h4>🌱 I’m currently learning : </h4>
 <p>
-  <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>&nbsp;&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>&nbsp;&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
@@ -11,7 +11,7 @@
 
 <h4>✅ Done with :</h4>
 <p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL-logo"/>
 </p>
 <hr/>
 <h4>Contact me on :</h4>
